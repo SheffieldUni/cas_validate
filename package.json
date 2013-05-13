@@ -1,8 +1,8 @@
 {
   "name": "cas_validate",
   "description": "Interact with a CAS server to validate client interaction",
-  "version": "0.0.14",
-  "author": "James E. Marca <jmarca@translab.its.uci.edu>",
+  "version": "0.0.15",
+  "author": "James E. Marca <jmarca@translab.its.uci.edu>, Chris Barran <c.d.barran@sheffield.ac.uk>",
   "license": "MIT",
   "keywords": [
     "cas",
