@@ -33,5 +33,5 @@
     "express": "*",
     "async": "*"
   },
-  "repository": "https://github.com/jmarca/cas_validate.git"
+  "repository": "https://github.com/chrisbarran/cas_validate.git"
 }
