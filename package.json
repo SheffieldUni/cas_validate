@@ -19,11 +19,9 @@
     "test": "NODE_ENV='test' mocha --timeout 15000 -R list --bail"
   },
   "dependencies": {
-    "hiredis": "",
-    "redis": "",
-    "underscore": "",
-    "request": "",
-    "winston": ""
+    "underscore": "1.5.x",
+    "request": "2.27.x",
+    "winston": "0.7.x"
   },
   "devDependencies": {
     "mocha": "*",
